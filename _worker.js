@@ -58,8 +58,8 @@ let CMproxyIPs = [
 	{ proxyIP: "proxyip.hk.fxxk.dedyn.io", type: "HK" },
 	{ proxyIP: "proxyip.fxxk.dedyn.io", type: "US" },
 ];
-let BotToken ='7197829779:AAFrber182_TbdC0cjm-58ThY_bGWsoVwkY';
-let ChatID ='821415023'; 
+let BotToken ='';
+let ChatID =''; 
 let proxyhosts = [//本地代理域名池
 	//'ppfv2tl9veojd-maillazy.pages.dev',
 ];
